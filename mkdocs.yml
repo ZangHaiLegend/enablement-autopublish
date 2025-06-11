@@ -1,0 +1,6 @@
+site_name: Enablement AutoPublish
+nav:
+  - Home: index.md
+  - Delta Sharing Quickstart: delta_sharing_quickstart.md
+theme:
+  name: material
